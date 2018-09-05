@@ -1,0 +1,1 @@
+docker build -t savilovoa/postgresql-pro-1c:9.6 .
